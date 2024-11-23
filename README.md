@@ -17,6 +17,8 @@ Threader is ideal for anyone looking to simulate **high-volume traffic** on thei
 
 ---
 
+### ⚠️ **Notice:**
+[ 𝘛𝘩𝘦 𝘵𝘰𝘰𝘭 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘪𝘯 𝘵𝘦𝘴𝘵𝘪𝘯𝘨 ● 𝘓𝘦𝘵 𝘶𝘴 𝘬𝘯𝘰𝘸 𝘪𝘧 𝘺𝘰𝘶 𝘧𝘪𝘯𝘥 𝘢𝘯𝘺 𝘦𝘳𝘳𝘰𝘳𝘴 ] 🚨🔧
 ### 💥 **Features:**
 - 🌐 **Customizable Stress Testing** for GET/POST requests
 - 🚀 **Async Power** with Python’s `aiohttp` for **super-fast** requests
@@ -93,6 +95,8 @@ Enter Number of Threads: 10
 
 ---
 
+### ⚠️ **Notice:**
+[ 𝘛𝘩𝘦 𝘵𝘰𝘰𝘭 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘪𝘯 𝘵𝘦𝘴𝘵𝘪𝘯𝘨 ● 𝘓𝘦𝘵 𝘶𝘴 𝘬𝘯𝘰𝘸 𝘪𝘧 𝘺𝘰𝘶 𝘧𝘪𝘯𝘥 𝘢𝘯𝘺 𝘦𝘳𝘳𝘰𝘳𝘴 ] 🚨🔧
 ### 💣 **Key Features You’ll Love:**
 - 🌈 **Animated Matrix Effect**: Watch the terminal come to life with symbols as your requests go wild! 💚
 - ⚡ **Real-Time System Stats**: See **CPU**, **Memory**, and **Disk Usage** stats as they update live!
